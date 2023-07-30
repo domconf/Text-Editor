@@ -56,7 +56,7 @@ This app is a single-page application that meets the PWA criteria. Additionally,
 * Navigate to browser and go to "localhost:3000"
 
 ## Deployed Link
-https://dashboard.heroku.com/apps/text-editorv1
+https://text-editorv1-fedabaf9c9f4.herokuapp.com/
 
 ## License
 This repository is licensed under the MIT License (https://opensource.org/license/mit/)
